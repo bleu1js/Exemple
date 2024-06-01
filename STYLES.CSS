@@ -1,0 +1,24 @@
+.game{
+  widh:255px;
+  text-align:center;
+}
+
+.texte{
+  background: #FF8040;
+  pading: 5px;
+  margin:5px;
+}
+.square{
+ 
+  width:80px;
+  height:80px;
+  background:	#FF8040;
+  float:left;
+  margin:2px;
+  font-size:50px;
+}
+
+.square:hover{
+  background:#000000;
+  pointer: cursor;
+}
